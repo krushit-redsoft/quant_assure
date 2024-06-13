@@ -71,12 +71,12 @@ export const navData = {
 					name: 'appliedControls',
 					fa_icon: 'fa-solid fa-fire-extinguisher',
 					href: '/applied-controls'
-				},
-				{
-					name: 'mappedControls',
-					fa_icon: 'fa-solid fa-fire-extinguisher',
-					href: '/applied-controls'
 				}
+				// {
+				// 	name: 'mappedControls',
+				// 	fa_icon: 'fa-solid fa-fire-extinguisher',
+				// 	href: '/applied-controls'
+				// }
 			]
 		},
 		{
@@ -92,42 +92,42 @@ export const navData = {
 					fa_icon: 'fa-solid fa-user',
 					href: '/policies',
 					permissions: ['view_appliedcontrol']
-				},
-				{
-					name: 'trainingAndEduction',
-					fa_icon: 'fa-solid fa-graduation-cap',
-					href: '/policies'
-				},
-				{
-					name: 'changeManagement',
-					fa_icon: 'fa-solid fa-wrench',
-					href: '/policies'
-				},
-				{
-					name: 'incidentManagement',
-					fa_icon: 'fa-solid fa-medkit',
-					href: '/policies'
-				},
-				{
-					name: 'configurationManagement',
-					fa_icon: 'fa-solid fa-tasks',
-					href: '/policies'
-				},
-				{
-					name: 'patchManagement',
-					fa_icon: 'fa-solid fa-sitemap',
-					href: '/policies'
-				},
-				{
-					name: 'thirdPartyAuditReports',
-					fa_icon: 'fa-solid fa-table',
-					href: '/policies'
-				},
-				{
-					name: 'reports',
-					fa_icon: 'fa-solid fa-book',
-					href: '/policies'
 				}
+				// {
+				// 	name: 'trainingAndEduction',
+				// 	fa_icon: 'fa-solid fa-graduation-cap',
+				// 	href: '/policies'
+				// },
+				// {
+				// 	name: 'changeManagement',
+				// 	fa_icon: 'fa-solid fa-wrench',
+				// 	href: '/policies'
+				// },
+				// {
+				// 	name: 'incidentManagement',
+				// 	fa_icon: 'fa-solid fa-medkit',
+				// 	href: '/policies'
+				// },
+				// {
+				// 	name: 'configurationManagement',
+				// 	fa_icon: 'fa-solid fa-tasks',
+				// 	href: '/policies'
+				// },
+				// {
+				// 	name: 'patchManagement',
+				// 	fa_icon: 'fa-solid fa-sitemap',
+				// 	href: '/policies'
+				// },
+				// {
+				// 	name: 'thirdPartyAuditReports',
+				// 	fa_icon: 'fa-solid fa-table',
+				// 	href: '/policies'
+				// },
+				// {
+				// 	name: 'reports',
+				// 	fa_icon: 'fa-solid fa-book',
+				// 	href: '/policies'
+				// }
 			]
 		},
 		{
@@ -147,12 +147,12 @@ export const navData = {
 					name: 'riskAcceptances',
 					fa_icon: 'fa-solid fa-user-tie',
 					href: '/risk-acceptances'
-				},
-				{
-					name: 'riskRegister',
-					fa_icon: 'fa-solid fa-book',
-					href: '/risk-acceptances'
 				}
+				// {
+				// 	name: 'riskRegister',
+				// 	fa_icon: 'fa-solid fa-book',
+				// 	href: '/risk-acceptances'
+				// }
 			]
 		},
 
@@ -163,12 +163,12 @@ export const navData = {
 					name: 'complianceAssessments',
 					fa_icon: 'fa-solid fa-arrows-to-eye',
 					href: '/compliance-assessments'
-				},
-				{
-					name: 'complianceAuditReports',
-					fa_icon: 'fa-solid fa-book',
-					href: '/compliance-assessments' // update path
 				}
+				// {
+				// 	name: 'complianceAuditReports',
+				// 	fa_icon: 'fa-solid fa-book',
+				// 	href: '/compliance-assessments' // update path
+				// }
 			]
 		},
 		{
